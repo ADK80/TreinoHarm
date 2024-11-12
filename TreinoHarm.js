@@ -2,4 +2,6 @@ let name = "Adriano"
 
 let animal = "Lai"
 
-let kgfnkea = "fasdoifhoiawe"
+let arrayDeComida = ["pizza, burger"]
+
+let qq = "qq"
